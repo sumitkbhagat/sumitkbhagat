@@ -3,14 +3,8 @@
 <h3 align="center">A passionate DevOps Engineer From India. 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+🌱 I’m currently learning **Aws Devops**
 
+💬 Ask me about **DevOps & Cloud DevOps**
 
-
-
-- 🌱 I’m currently learning **Aws Devops**
-
-
-
-- 💬 Ask me about **DevOps & Cloud DevOps**
-
-- 📫 How to reach me **sumitkumarbhagat2013@gmail.com**
+📫 How to reach me **sumitkumarbhagat2013@gmail.com**

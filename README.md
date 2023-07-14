@@ -7,9 +7,9 @@
 
 
 
-- 🌱 I’m currently learning **DevSecOps & Cloud Devops**
+- 🌱 I’m currently learning **Aws Devops**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sumitkbhagat](https://github.com/sumitkbhagat)
+
 
 - 💬 Ask me about **DevOps & Cloud DevOps**
 

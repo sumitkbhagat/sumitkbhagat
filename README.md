@@ -1,16 +1,16 @@
-Hi 👋, I'm Sumit Kumar Bhagat
-A passionate Devops Engineer from India
-<!--
-**sumitkbhagat/sumitkbhagat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey Everyone 👋, I'm SUMIT KUMAR BHAGAT</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">A passionate DevOps Engineer From India. 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
+
+
+
+- 🌱 I’m currently learning **DevSecOps & Cloud Devops**
+
+- 👨‍💻 All of my projects are available at [https://github.com/sumitkbhagat](https://github.com/sumitkbhagat)
+
+- 💬 Ask me about **DevOps & Cloud DevOps**
+
+- 📫 How to reach me **sumitkumarbhagat2013@gmail.com**
